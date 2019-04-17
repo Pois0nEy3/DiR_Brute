@@ -5,10 +5,10 @@ Directory or Files brute force in webpages!
 
 Support send messages to Telegram channel
 
-  ####User Setup:
+Automatic Setup (if you download for git, don't need setup) :
 <code>$ ./Setup.sh</code>
 
-  ####Configure file set :
+Configure file set :
 <code>$ vi configure.conf</code>
 <pre>
   1 ###############################################################
