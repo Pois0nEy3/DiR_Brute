@@ -31,11 +31,11 @@ Support send messages to Telegram channel
  18 
  19 #APIs
  20 #-TelegramAPI Activation
- 21 _API_Enable=ON
+ 21 _API_Enable=OFF
  22 #-Bot token ex) bot382743792:AAH3yf7N-h8WWD-xYD96m0V-PIozhcp86BE
- 23 _Bot_Token=bot381753792:AAH3yf7N-h9WWD-xYD96m0V-PIozhcp86BE
+ 23 _Bot_Token=
  24 #-Channel ID ex) 1001393182576
- 25 _Channel_ID=100139356557
+ 25 _Channel_ID=
 </pre>
   ####Script use:
 <code>$ ./dirbrute 'example.com' 'listfile name'</code>
