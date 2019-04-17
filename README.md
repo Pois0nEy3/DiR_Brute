@@ -1,7 +1,9 @@
 DiR_Brute
 =======
 
-Wordpress user enumeration and password bruteforce.
+Directory or Files brute force in webpages!
+
+Support send messages to Telegram channel
 
   ####User Setup:
 <code>$ ./Setup.sh</code>
