@@ -37,12 +37,26 @@ Configure file set :
  24 #-Channel ID ex) 1001393182576
  25 _Channel_ID=
 </pre>
-  ####Script use:
+
+Run script :
 <code>$ ./dirbrute 'example.com' 'listfile name'</code>
+
+How to monitor ? :
+<code>$ tail -f Monitor.out</code>
 <pre>
-[+] Bruteforcing user [admin]
-123456
-test123
-123test123
-The password is: 123test123
+root@ubuntu:~$ tail -f Monitor.out 
+[876/11[1%]][404] -> example.com/68138/ size : 0
+[876/11[1%]][404] -> example.com/d03564t.bak size : 0
+[876/10[1%]][200] -> example.com/browser.html size : 0
+[876/10[1%]][404] -> example.com/lisa-2006.bak size : 0
+[876/10[1%]][404] -> example.com/import.html size : 0
+[876/10[1%]][404] -> example.com/55131.html size : 0
+[876/10[1%]][404] -> example.com/topicmaps.html size : 0
+[876/11[1%]][404] -> example.com/a24/ size : 0
+[876/10[1%]][404] -> example.com/Superbowl.html size : 0
+[876/4[0%]][404] -> example.com/3340/ size : 0
+[876/3[0%]][404] -> example.com/ncats20.html size : 0
+[876/10[1%]][404] -> example.com/flag_mx.html size : 0
+[876/10[1%]][404] -> example.com/16985/ size : 0
+[876/10[1%]][404] -> example.com/2005-18.html size : 0
 </pre>
