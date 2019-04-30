@@ -1,9 +1,9 @@
 DiR_Brute
 =======
 
-Directory or Files brute force in webpages!
+Directory or Files brute force to http!
 
-Support send messages to Telegram channel
+Support API send messages to Telegram channel
 
 Automatic Setup (if you download from git, don't need setup) :
 <code>$ ./Setup.sh</code>
